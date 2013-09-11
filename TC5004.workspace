@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="TC5004" Database="./TC5004.tags">
+  <Project Name="t3c1e1" Path="t3c1e1/t3c1e1.project" Active="Yes"/>
+  <Project Name="t3c1e2" Path="t3c1e2/t3c1e2.project"/>
+  <Project Name="t3c1e3" Path="t3c1e3/t3c1e3.project"/>
+  <Project Name="t3c2e1" Path="t3c2e1/t3c2e1.project"/>
+  <Project Name="t3c2e2" Path="t3c2e2/t3c2e2.project"/>
+  <Project Name="t3c3e3" Path="t3c3e3/t3c3e3.project"/>
+  <Project Name="t3c3e5" Path="t3c3e5/t3c3e5.project" Active="No"/>
+  <Project Name="t3c3e6" Path="t3c3e6/t3c3e6.project" Active="No"/>
+  <Project Name="t3c3e7" Path="t3c3e7/t3c3e7.project"/>
+  <Project Name="t3c3e8" Path="t3c3e8/t3c3e8.project"/>
+  <Project Name="t3c3e1" Path="t3c3e1/t3c3e1.project"/>
+  <Project Name="t3c3e2" Path="t3c3e2/t3c3e2.project"/>
+  <Project Name="t3c3e4" Path="t3c3e4/t3c3e4.project"/>
+  <Project Name="prueba" Path="prueba/prueba.project"/>
+  <Project Name="t3c4e1" Path="t3c4e1/t3c4e1.project"/>
+  <Project Name="t3c4e3" Path="t3c4e3/t3c4e3.project" Active="No"/>
+  <Project Name="t3c4e2" Path="t3c4e2/t3c4e2.project"/>
+  <Project Name="t3c4e4" Path="t3c4e4/t3c4e4.project"/>
+  <Project Name="t3c4e5" Path="t3c4e5/t3c4e5.project"/>
+  <Project Name="2EP_E2" Path="2EP_E2/2EP_E2.project"/>
+  <Project Name="t4c1e1" Path="t4c1e1/t4c1e1.project"/>
+  <Project Name="t4c1e2" Path="t4c1e2/t4c1e2.project"/>
+  <Project Name="t4c2e1" Path="t4c2e1/t4c2e1.project"/>
+  <Project Name="t4c2e2" Path="t4c2e2/t4c2e2.project"/>
+  <Project Name="t4c2e3" Path="t4c2e3/t4c2e3.project"/>
+  <Project Name="t4c2e4" Path="t4c2e4/t4c2e4.project"/>
+  <Project Name="t5c1e1" Path="t5c1e1/t5c1e1.project"/>
+  <Project Name="t5c1e2" Path="t5c1e2/t5c1e2.project"/>
+  <Project Name="t5c1e3" Path="t5c1e3/t5c1e3.project"/>
+  <Project Name="t5c2e1" Path="t5c2e1/t5c2e1.project"/>
+  <Project Name="t5c2e4" Path="t5c2e4/t5c2e4.project"/>
+  <Project Name="t5c2e3" Path="t5c2e3/t5c2e3.project"/>
+  <Project Name="3EP" Path="3EP/3EP.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="t3c1e1" ConfigName="Debug"/>
+      <Project Name="t3c1e2" ConfigName="Debug"/>
+      <Project Name="t3c1e3" ConfigName="Debug"/>
+      <Project Name="t3c2e1" ConfigName="Debug"/>
+      <Project Name="t3c2e2" ConfigName="Debug"/>
+      <Project Name="t3c3e3" ConfigName="Debug"/>
+      <Project Name="t3c3e5" ConfigName="Debug"/>
+      <Project Name="t3c3e6" ConfigName="Debug"/>
+      <Project Name="t3c3e7" ConfigName="Debug"/>
+      <Project Name="t3c3e8" ConfigName="Debug"/>
+      <Project Name="t3c3e1" ConfigName="Debug"/>
+      <Project Name="t3c3e2" ConfigName="Debug"/>
+      <Project Name="t3c3e4" ConfigName="Debug"/>
+      <Project Name="prueba" ConfigName="Debug"/>
+      <Project Name="t3c4e1" ConfigName="Debug"/>
+      <Project Name="t3c4e3" ConfigName="Debug"/>
+      <Project Name="t3c4e2" ConfigName="Debug"/>
+      <Project Name="t3c4e4" ConfigName="Debug"/>
+      <Project Name="t3c4e5" ConfigName="Debug"/>
+      <Project Name="2EP_E2" ConfigName="Debug"/>
+      <Project Name="t4c1e1" ConfigName="Debug"/>
+      <Project Name="t4c1e2" ConfigName="Debug"/>
+      <Project Name="t4c2e1" ConfigName="Debug"/>
+      <Project Name="t4c2e2" ConfigName="Debug"/>
+      <Project Name="t4c2e3" ConfigName="Debug"/>
+      <Project Name="t4c2e4" ConfigName="Debug"/>
+      <Project Name="t5c1e1" ConfigName="Debug"/>
+      <Project Name="t5c1e2" ConfigName="Debug"/>
+      <Project Name="t5c1e3" ConfigName="Debug"/>
+      <Project Name="t5c2e1" ConfigName="Debug"/>
+      <Project Name="t5c2e4" ConfigName="Debug"/>
+      <Project Name="t5c2e3" ConfigName="Debug"/>
+      <Project Name="3EP" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="t3c1e1" ConfigName="Release"/>
+      <Project Name="t3c1e2" ConfigName="Release"/>
+      <Project Name="t3c1e3" ConfigName="Release"/>
+      <Project Name="t3c2e1" ConfigName="Release"/>
+      <Project Name="t3c2e2" ConfigName="Release"/>
+      <Project Name="t3c3e3" ConfigName="Release"/>
+      <Project Name="t3c3e5" ConfigName="Release"/>
+      <Project Name="t3c3e6" ConfigName="Release"/>
+      <Project Name="t3c3e7" ConfigName="Release"/>
+      <Project Name="t3c3e8" ConfigName="Release"/>
+      <Project Name="t3c3e1" ConfigName="Release"/>
+      <Project Name="t3c3e2" ConfigName="Release"/>
+      <Project Name="t3c3e4" ConfigName="Release"/>
+      <Project Name="prueba" ConfigName="Release"/>
+      <Project Name="t3c4e1" ConfigName="Release"/>
+      <Project Name="t3c4e3" ConfigName="Release"/>
+      <Project Name="t3c4e2" ConfigName="Release"/>
+      <Project Name="t3c4e4" ConfigName="Release"/>
+      <Project Name="t3c4e5" ConfigName="Release"/>
+      <Project Name="2EP_E2" ConfigName="Release"/>
+      <Project Name="t4c1e1" ConfigName="Release"/>
+      <Project Name="t4c1e2" ConfigName="Release"/>
+      <Project Name="t4c2e1" ConfigName="Release"/>
+      <Project Name="t4c2e2" ConfigName="Release"/>
+      <Project Name="t4c2e3" ConfigName="Release"/>
+      <Project Name="t4c2e4" ConfigName="Release"/>
+      <Project Name="t5c1e1" ConfigName="Release"/>
+      <Project Name="t5c1e2" ConfigName="Release"/>
+      <Project Name="t5c1e3" ConfigName="Release"/>
+      <Project Name="t5c2e1" ConfigName="Release"/>
+      <Project Name="t5c2e4" ConfigName="Release"/>
+      <Project Name="t5c2e3" ConfigName="Release"/>
+      <Project Name="3EP" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

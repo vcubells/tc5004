@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Session Name="/home/vcubells/Desktop/Parallels Shared Folders/vcn/itesm/tc5004/trunk/TC5004.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/home/vcubells/Desktop/Parallels Shared Folders/vcn/itesm/tc5004/trunk/TC5004.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/media/psf/vcn/itesm/tc5004/trunk/t5c2e3/main.c" Name="FileName"/>
+      <int Value="20" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/vcn/itesm/tc5004/trunk/t5c2e1/main.c" Name="FileName"/>
+      <int Value="38" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
